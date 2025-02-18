@@ -1,7 +1,7 @@
-class hello
+class Test
 {
-public static void main()
-{
-System.out.println("devops");
-}
+    public static void main(String[] args)
+    {
+        System.out.println("My First Java Program.");
+    }
 }
